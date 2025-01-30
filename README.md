@@ -46,5 +46,5 @@ print(corrected_word)  # Output: "spelling"
 
 ## **Acknowledgment**
 
-Inspired by **Peter Norvig’s spell checker algorithm**.
+Inspired by **Peter Norvig’s spell checker algorithm and concepts from Packt Publishing's tutorial**.
 
