@@ -14,7 +14,7 @@ This project implements a simple spell checker using Python. It utilizes **token
 
 ## **Usage**
 
-Ensure **big.txt** (a large text corpus) is in the same directory or you could use the **Oxford dictionary**.
+Ensure **big.txt** (a large text corpus) is in the same directory.
 
 Import the script and use the `rectify` function:
 
